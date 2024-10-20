@@ -25,7 +25,7 @@ Initial Package Installations: Install the necessary Python libraries:
 
 2.Running the Application:
 
-Clone the Repository:git clone https://pranjalimaletha.github.io
+Clone the Repository:git clone https://github.com/PRANJALIMALETHA/AST
 
 Start the Application:
 
